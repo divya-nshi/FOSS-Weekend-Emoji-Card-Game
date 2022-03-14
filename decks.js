@@ -346,7 +346,7 @@ echo $message;`,
                 name: "Cherry",
                 content: {
                     primary: "🪑 E"
-                }
+                },
                 hint: "japanese tree name has it",
                 matchValue: "A cherry tree can be harvested in 7 seconds",
                 seenHint: false
